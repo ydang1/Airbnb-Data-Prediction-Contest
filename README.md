@@ -1,5 +1,5 @@
 # Project Description
-To predict one of two attributes of an Airbnb.com listing that a listing owner might want to know: high_booking_rate (how popular the listing is), and review_scores_rating (what the average visitor rating for the listing is). The dataset has been provided and it has about 70 features for each listing. 
+To predict one of two attributes of an Airbnb.com listing that a listing Airbnb owner might want to know: high_booking_rate (how popular the listing is), and review_scores_rating (what the average visitor rating for the listing is). The dataset has been provided and it has about 70 features for each listing. 
 
 # DataSet
 Train and test dataset have been provided:
