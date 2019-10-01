@@ -174,6 +174,8 @@ After analyzing this data through a logistic model, we found quite a few factors
 - Swith from R to Python in the future for building machine learning models to see if it is much efficient than R.
 
 # Contribution
+take charge of cleaning the last 23 variables for the original version of dataset. And running the Classification Tree, neural network, and boosting models.
+
 
 
 
